@@ -1,7 +1,0 @@
-﻿  Source.cpp
-C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\bubbleSort\bubbleSort\Source.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\bubbleSort\bubbleSort\Source.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\bubbleSort\bubbleSort\Source.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\bubbleSort\bubbleSort\Source.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\bubbleSort\bubbleSort\Source.cpp(43,21): warning C4018: '<': signed/unsigned mismatch
-  bubbleSort.vcxproj -> C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\bubbleSort\Debug\bubbleSort.exe

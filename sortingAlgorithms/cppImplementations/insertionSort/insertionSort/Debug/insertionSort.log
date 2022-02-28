@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\insertionSort\insertionSort\Source.cpp(6,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\insertionSort\insertionSort\Source.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\insertionSort\insertionSort\Source.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
-  insertionSort.vcxproj -> C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\insertionSort\Debug\insertionSort.exe

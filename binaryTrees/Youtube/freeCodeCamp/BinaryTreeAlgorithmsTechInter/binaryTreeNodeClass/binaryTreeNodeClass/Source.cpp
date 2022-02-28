@@ -11,7 +11,6 @@ public:
 	{
 	}
 
-private:
 	std::string mVal;
 	Node* mLeft;
 	Node* mRight;
@@ -19,11 +18,15 @@ private:
 
 int main()
 {
-	Node a = Node("a");
-	Node b = Node("b");
-	Node c = Node("c");
-	Node d = Node("d");
-	Node e = Node("e");
+	Node* a = new Node("a");
+	Node* b = new Node("b");
+	Node* c = new Node("c");
+	Node* d = new Node("d");
+	Node* e = new Node("e");
+
+	a->mLeft = b;
+
+	std::cout << a->mLeft->mVal << std::endl;
 
 	return 0;
 }
