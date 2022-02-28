@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\mergeSort\mergeSort\mergeSort\Source.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\mergeSort\mergeSort\mergeSort\Source.cpp(34,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\mergeSort\mergeSort\mergeSort\Source.cpp(34,66): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\mergeSort\mergeSort\mergeSort\Source.cpp(50,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\mergeSort\mergeSort\mergeSort\Source.cpp(57,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\mergeSort\mergeSort\mergeSort\Source.cpp(83,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\mergeSort\mergeSort\mergeSort\Source.cpp(83,66): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\mergeSort\mergeSort\mergeSort\Source.cpp(99,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\mergeSort\mergeSort\mergeSort\Source.cpp(106,27): warning C4018: '<': signed/unsigned mismatch
+  mergeSort.vcxproj -> C:\Users\Alejandro\Desktop\sorting_algorithms\cppImplementations\mergeSort\mergeSort\Debug\mergeSort.exe
