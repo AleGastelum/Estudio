@@ -1,5 +1,7 @@
 #include <iostream>
 #include <string>
+#include <stack>
+#include <vector>
 
 class Node
 {
@@ -23,10 +25,15 @@ int main()
 	Node* c = new Node("c");
 	Node* d = new Node("d");
 	Node* e = new Node("e");
+	Node* f = new Node("f");
 
 	a->mLeft = b;
+	a->mRight = c;
 
-	std::cout << a->mLeft->mVal << std::endl;
+	b->mLeft = d;
+	b->mRight = e;
+
+	c->mRight = f;
 
 	return 0;
 }
